@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @appleartic999
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
+- 👋 Hi, I’m first year CS major student.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Web Development.
 - 📫 Twitter @appletech777
 
 <!---
